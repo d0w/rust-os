@@ -1,7 +1,9 @@
+# Rust-os
+
+A minimal OS built with Rust.
+
+## To run
+
 ```bash
-cargo build --target thumbv7em-none-eabihf
-```
-
-
-
+cargo run
 
